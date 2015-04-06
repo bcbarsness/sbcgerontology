@@ -490,4 +490,8 @@ img.selectable:hover {
 
 	}
 
+p.boxed {
+    border-style: solid;
+    border-width: 1px;
+}
 
